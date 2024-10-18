@@ -1,4 +1,6 @@
-**##Configuration**
+
+**Configuration**
+
 
 `git config --global user.email <github email>`
 
