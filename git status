@@ -1,0 +1,24 @@
+[33mcommit c727ed443b8aecae77e337d19c5f20dfac9c7ddb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: sakib276 <nazmussakib06927@gmail.com>
+Date:   Sat Oct 19 00:36:56 2024 +0600
+
+    added my readme.md file
+
+[1mdiff --git a/composition.txt b/composition.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9603827[m
+[1m--- /dev/null[m
+[1m+++ b/composition.txt[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mThe cow is a domestic animal that holds great significance in many cultures around the world.[m
+[32m+[m[32m Known for its gentle nature and usefulness, it is often associated with farming and rural life.[m
+[32m+[m[32m Cows provide various essential resources such as milk, meat, leather, and even labor in some parts of the world.[m
+\ No newline at end of file[m
+[1mdiff --git a/readme.md b/readme.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0295e64[m
+[1m--- /dev/null[m
+[1m+++ b/readme.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# we are learning git and github at a online platform[m
+[32m+[m[32m# My name is Nazmus Sakib[m
